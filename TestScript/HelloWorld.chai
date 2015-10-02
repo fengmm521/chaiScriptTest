@@ -1,0 +1,6 @@
+//HelloWorld.chai
+def TestChai()
+{
+    print("hello world chaisprite!")
+    return function(3,5.0)
+}
